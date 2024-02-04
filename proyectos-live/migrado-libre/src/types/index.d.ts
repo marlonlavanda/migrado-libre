@@ -1,5 +1,3 @@
-import exp from "constants";
-
 export interface Product {
   id: string;
   title: string;
