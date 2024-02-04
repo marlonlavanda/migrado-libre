@@ -12,12 +12,12 @@ Su hijo Ángel, que es programador, le ha dicho que Mercado Libre tiene una API 
 
 ## Requerimientos
 
-- [ ] Al entrar a la ruta `/` deberíamos ver un listado de todos los productos de Miguel en forma de grilla.
-- [ ] Al entrar a la ruta `/[category_id]` deberíamos ver un listado de productos correspondientes a esa categoría.
-- [ ] En todas las rutas, deberíamos ver un menú a la izquierda con las categorías disponibles. Las categorías deberían mostrarse en forma de árbol, es decir, si una categoría tiene subcategorías, deberían mostrarse como un submenú.
-- [ ] Las categorías deberían iniciar contraídas, y al hacer click un botón de `-` o `+` deberían expandirse o contraerse individualmente.
-- [ ] Las categorías deberían mantener su estado de expansión/contracción al navegar entre rutas.
-- [ ] Al clickear una categoría, deberíamos navegar a la ruta `/[category_id]` correspondiente.
+- [x] Al entrar a la ruta `/` deberíamos ver un listado de todos los productos de Miguel en forma de grilla.
+- [x] Al entrar a la ruta `/[category_id]` deberíamos ver un listado de productos correspondientes a esa categoría.
+- [x] En todas las rutas, deberíamos ver un menú a la izquierda con las categorías disponibles. Las categorías deberían mostrarse en forma de árbol, es decir, si una categoría tiene subcategorías, deberían mostrarse como un submenú.
+- [x] Las categorías deberían iniciar contraídas, y al hacer click un botón de `-` o `+` deberían expandirse o contraerse individualmente.
+- [x] Las categorías deberían mantener su estado de expansión/contracción al navegar entre rutas.
+- [x] Al clickear una categoría, deberíamos navegar a la ruta `/[category_id]` correspondiente.
 - [ ] Al clickear un producto debería redirigirnos a la web de Mercado Libre para ese producto.
 
 ## Ejemplo
